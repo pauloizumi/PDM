@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cad_fun"
+            android:icon="@drawable/ic_add_black_24dp"
+            android:title="Cadastrar Funcionario" />
+        <item
+            android:id="@+id/nav_list_fun"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Listar Funcionario" />
+        <item
+            android:id="@+id/nav_cad_dep"
+            android:icon="@drawable/ic_add_black_24dp"
+            android:title="Cadastrar Departamento" />
+        <item
+            android:id="@+id/nav_list_dep"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Listar Departamento" />
+    </group>
+
+
+
+</menu>
